@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Software Developer
+I'm a Frontend and MERN Stack Developer
 
 
 ## 🌐 Socials:
